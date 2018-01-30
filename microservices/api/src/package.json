@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-koa",
+  "version": "1.0.0",
+  "description": "A simple koa.js app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "praveen@hasura.io",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
